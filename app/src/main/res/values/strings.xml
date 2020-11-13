@@ -14,4 +14,5 @@
     <string name="lastChange">Letzte Änderung</string>
     <string name="sensorAccuracy">Genauigkeit</string>
     <string name="notify">notify me!</string>
+    <string name="toast">Show Toast</string>
 </resources>

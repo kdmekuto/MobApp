@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MobAppVL1">
-        <activity android:name=".ui.sensors.SensorDeitalsActivity"></activity>
+        <receiver
+            android:name=".ui.notification.CustomReceiver"
+            android:enabled="true"
+            android:exported="true"></receiver>
+
+        <activity android:name=".ui.sensors.SensorDeitalsActivity" />
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
