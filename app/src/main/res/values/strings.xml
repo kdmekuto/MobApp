@@ -9,8 +9,9 @@
 
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Sensoren</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_slideshow">Notifcations</string>
     <string name="sensorValue">wert</string>
     <string name="lastChange">Letzte Änderung</string>
     <string name="sensorAccuracy">Genauigkeit</string>
+    <string name="notify">notify me!</string>
 </resources>
